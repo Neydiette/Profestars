@@ -1,0 +1,1 @@
+<input type="radio" id="{{ $id }}" name="{{ $name }}" value="{{ $value }}" {!! $attributes->merge(['class' => 'border-gray-300 bg-gray-900 text-yellow-500 shadow-sm focus:ring-transparent rounded-none']) !!}>
